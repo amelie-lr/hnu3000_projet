@@ -3,6 +3,8 @@ project:
 
 website:
   title: "HNU3000_projet"
+  site-url: 
+  site-path: 
   navbar:
     left:
       - href: index.qmd
