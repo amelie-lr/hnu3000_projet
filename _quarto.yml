@@ -3,6 +3,9 @@ project:
 
 website:
   title: "HNU3000_projet"
+  reader-mode: true
+  site-url: https://amelie-lr.github.io/hnu3000_projet/
+  repo-url: https://github.com/amelie-lr/hnu3000_projet
   navbar:
     left:
       - href: index.qmd
