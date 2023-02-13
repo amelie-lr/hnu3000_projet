@@ -3,9 +3,11 @@ project:
 
 website:
   title: "HNU3000_projet"
+  description: "Mon projet pour le cours HNU3000"
   reader-mode: true
   site-url: https://amelie-lr.github.io/hnu3000_projet/
   repo-url: https://github.com/amelie-lr/hnu3000_projet
+  repo-actions: [edit, issue, source]
   navbar:
     left:
       - href: index.qmd
@@ -21,5 +23,5 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
 
