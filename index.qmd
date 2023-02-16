@@ -1,11 +1,49 @@
 ---
-title: "HNU3000_projet"
+title: "Projet HNU3000"
 ---
 
-This is a Quarto website.
+## Description du projet
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Exploration des outils numériques relatifs aux données géographiques.
 
-```{r}
-1 + 1
-```
+Xxxx...
+
+### Objectif
+
+Faire parler des données de tracés gps.
+
+### Source des données
+
+Mes tracés gps enregistrés lors de mes sorties à vélo dans les 10 dernières années.
+
+## Progression
+
+- Préparation du site web afin de documenter le processus et constituer un rapport d'expérience
+<div class="progress">
+  <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 75%;" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+- Description du projet
+<div class="progress">
+  <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 25%;" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+- Recherches
+<div class="progress">
+  <div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: 5%;" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+- Choix des outils
+<div class="progress">
+  <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 2%;" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+- Expérimentations et codage
+<div class="progress">
+  <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 2%;" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+- Xxxxx
+<div class="progress">
+  <div class="progress-bar progress-bar-striped bg-light" role="progressbar" style="width: 2%;" aria-valuemin="0" aria-valuemax="100"></div>
+</div>

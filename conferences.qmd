@@ -1,0 +1,35 @@
+---
+title: "Calendrier"
+---
+
+### [Concordia -- Vitrine HN](https://www.crihn.org/nouvelles/2022/12/08/vitrine-hn-dh-showcase-2023/)
+
+Où : Milieux Resource Room EV 11.705, Concordia University
+
+Quand : 17 février 2023, 9h à 12h
+
+### [McGill -- Ateliers du LADIREC 2023 \| Initiation à l'analyse de textes assistée par ordinateur](https://www.mcgill.ca/centre-montreal/fr/ateliers-ladirec-hiver-2023)
+
+Où : Zoom
+
+Quand : jeudi 14h à 16h
+
+-   23 février 2023 -- Explorer les données textuelles avec R -- [*pas certaine d'être dispo*]{.text-warning}
+
+-   9 mars 2023 -- Visualiser les résultats d'analyses avec ggplot2 (R)
+
+-   23 mars 2023 -- Géolocaliser des données avec tydigeocoder et leaflet (R)
+
+### [Débugue tes humanités](https://debugue.ecrituresnumeriques.ca/)
+
+[Inscription](https://bib.umontreal.ca/formations/calendrier?cid=7690&t=g&cal=7690&q=d%C3%A9bugue)
+
+Où : Bibliothèque des lettres et sciences humaines (Pavillon Samuel-Bronfman - 3000, rue Jean-Brillant), Local 2074 (labo, 2^e^ étage) ou [en ligne](https://meet.jit.si/DebugHumanitesCRCEN-BLS)
+
+Quand : mardi 13h à 15h -- [*conflit d'horaire avec le travail*]{.text-warning}
+
+-   28 mars 2023 -- introduction à Git
+
+-   9 et 30 mai 2023 -- générateurs de site web statique
+
+-   20 juin 2023 -- introduction à Paged.js

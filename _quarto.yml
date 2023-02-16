@@ -2,26 +2,81 @@ project:
   type: website
 
 website:
-  title: "HNU3000_projet"
+  title: "Projet HNU3000"
   description: "Mon projet pour le cours HNU3000"
   reader-mode: true
   site-url: https://amelie-lr.github.io/hnu3000_projet/
   repo-url: https://github.com/amelie-lr/hnu3000_projet
-  repo-actions: [edit, issue, source]
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  repo-actions: [issue, source]
+  favicon: /images/favicon.ico
 
-execute:
-  freeze: auto
+  navbar:
+   background: dark
+   search: true
+   pinned: true
+   collapse: true
+   
+#   left:
+#      - href: index.qmd
+#        text: Accueil
+#      - href: recherches.qmd
+#        text: Recherches
+#      - href: planif.qmd
+#        text: Planification
+        
+#   right:
+#      - href: ref.qmd
+#        text: Références
+ 
+  sidebar:
+    style: "docked"
+    pinned: true
+    logo: /images/logo_pos_blanc.png
+    logo-alt: Logo ALR
+    collapse-level: 5
+    contents:
+      - section: "Le projet"
+        contents:
+          - index.qmd
+          - planif.qmd
+          - ref.qmd
+      - text: "---"
+      - section: "Étapes de réalisation"
+        contents:
+          - recherches.qmd
+          - import.qmd
+      - text: "---"
+      - section: "Conférences et ateliers"
+        contents:
+          - conferences.qmd
+          - rapports.qmd
+        
+  page-footer:
+    left: |
+      Propulsé par des logiciels libres
+    center:
+      - text: "Amélie LR"
+        href: mailto:amelie.levasseur-raymond@umontreal.ca
+    right:
+      - icon: github
+        href: https://github.com/amelie-lr/hnu3000_projet
+        aria-label: GitHub du projet
   
 format:
   html:
-    theme: cosmo
+    theme: superhero
     css: styles.css
+    mainfont: Roboto Slab
+    code-fold: false
+    code-copy: true
+    code-overflow: wrap
+    highlight-style: github
     toc: true
-
+    lang: "fr"
+    smooth-scroll: true
+    
+execute:
+  freeze: auto
+        
 editor: source
 
