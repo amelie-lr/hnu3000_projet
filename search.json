@@ -1,16 +1,51 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "HNU3000_projet",
+    "objectID": "planif.html",
+    "href": "planif.html",
+    "title": "Planification",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "xxx\nxxx\nxxx\nxxx\nxxx"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "recherches.html",
+    "href": "recherches.html",
+    "title": "Recherches",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Projet HNU3000",
+    "section": "",
+    "text": "Exploration des outils numériques relatifs aux données géographiques.\nXxxx…\n\n\nFaire parler des données de tracés gps.\n\n\n\nMes tracés gps enregistrés lors de mes sorties à vélo dans les 10 dernières années."
+  },
+  {
+    "objectID": "index.html#progression",
+    "href": "index.html#progression",
+    "title": "Projet HNU3000",
+    "section": "Progression",
+    "text": "Progression\n\nPréparation du site web afin de documenter le processus et constituer un rapport d’expérience\n\n\n\n\n\nDescription du projet\n\n\n\n\n\nRecherches\n\n\n\n\n\nChoix des outils\n\n\n\n\n\nExpérimentations et codage\n\n\n\n\n\nXxxxx"
+  },
+  {
+    "objectID": "conferences.html",
+    "href": "conferences.html",
+    "title": "Calendrier",
+    "section": "",
+    "text": "Concordia – Vitrine HN\nOù : Milieux Resource Room EV 11.705, Concordia University\nQuand : 17 février 2023, 9h à 12h\n\n\nMcGill – Ateliers du LADIREC 2023 | Initiation à l’analyse de textes assistée par ordinateur\nOù : Zoom\nQuand : jeudi 14h à 16h\n\n23 février 2023 – Explorer les données textuelles avec R – pas certaine d’être dispo\n9 mars 2023 – Visualiser les résultats d’analyses avec ggplot2 (R)\n23 mars 2023 – Géolocaliser des données avec tydigeocoder et leaflet (R)\n\n\n\nDébugue tes humanités\nInscription\nOù : Bibliothèque des lettres et sciences humaines (Pavillon Samuel-Bronfman - 3000, rue Jean-Brillant), Local 2074 (labo, 2e étage) ou en ligne\nQuand : mardi 13h à 15h – conflit d’horaire avec le travail\n\n28 mars 2023 – introduction à Git\n9 et 30 mai 2023 – générateurs de site web statique\n20 juin 2023 – introduction à Paged.js"
+  },
+  {
+    "objectID": "ref.html",
+    "href": "ref.html",
+    "title": "Références",
+    "section": "",
+    "text": "R Studio\nGitHub\nQuarto\nThème Superhero personnalisé\nLangages R, Markdown, Yaml, HTML et CSS"
+  },
+  {
+    "objectID": "ref.html#documentation-technique",
+    "href": "ref.html#documentation-technique",
+    "title": "Références",
+    "section": "Documentation technique",
+    "text": "Documentation technique\n\nPréparation du site web\nPour la configuration entre mon projet dans R Studio et le répertoire sur GitHub\nHappy Git with R\nQuarto > Publishing > GitHub Pages\nPour modifier le thème du site et le personnaliser\nQuarto > Documents > HTML > HTML theming\nPour personnaliser la structure du site\nQuarto > Websites"
   }
 ]

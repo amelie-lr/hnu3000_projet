@@ -1,1 +1,83 @@
 /* css styles */
+@import 'https://fonts.googleapis.com/css2?family=Roboto&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Roboto-Slab&display=swap';
+
+:root {
+  --bs-teal: turquoise;
+  --bs-primary: #4c9be8;
+  --bs-secondary: #4e5d6c;
+  --bs-success: #5cb85c;
+  --bs-info: #5bc0de;
+  --bs-warning: #ffc107;
+  --bs-danger: #d9534f;
+  --bs-light: #abb6c2;
+  --bs-dark: #20374c;
+}
+
+
+/* styles texte */
+
+h2, h3, h4, h5, h6, h2 a, h3 a, h4 a, h5 a, h6 a {
+    color: var(--bs-teal);
+}
+h1, .h1 {
+    font-size: calc(1.25rem + 2vw);
+    font-weight: bold;
+    color: var(--bs-body-bg);
+    background-color: var(--bs-teal);
+    display: inline-block !important;
+    padding: 0 0.5rem;
+}
+h2, .h2 {
+    font-size: calc(1.25rem + 1vw);
+    border-bottom: solid 1px var(--bs-teal);
+    padding-top: 2rem;
+}
+h3, .h3 {
+    font-size: calc(1.25rem + 0.2vw);
+    padding-top: 1rem;
+}
+h4, .h4 {
+    font-size: 1.25rem;
+}
+h5, .h5 {
+    font-size: 1.25rem;
+}
+
+a {
+    color: var(--bs-light);
+}
+a:hover {
+    color: var(--bs-secondary);
+}
+.navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active {
+    color: #4c9be8;
+}
+
+#quarto-document-content ol, ul {
+    padding-left: 1rem;
+}
+#quarto-document-content li {
+    margin-top: 1rem;
+}
+
+
+/* styles structure */
+
+.navbar-dark {
+    background-color: var(--bs-dark);
+}
+.navbar-dark .navbar-brand {
+    color: var(--bs-teal); 
+}
+.navbar-brand {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.navbar-logo {
+    max-height: 60px;
+}
+div.sidebar.sidebar-navigation.rollup.quarto-sidebar-toggle-contents, nav.sidebar.sidebar-navigation:not(.rollup) {
+    background-color: rgba(32, 55, 76, 0.3);
+}
+
