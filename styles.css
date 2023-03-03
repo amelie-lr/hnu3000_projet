@@ -40,6 +40,9 @@ h3, .h3 {
 h4, .h4 {
     font-size: 1.25rem;
 }
+h4.alert-heading {
+    margin-top: 0;
+}
 h5, .h5 {
     font-size: 1.25rem;
 }
@@ -61,6 +64,16 @@ a:hover {
     margin-top: 1rem;
 }
 
+.task-list {
+    padding-left: 1.5rem !important;
+}
+
+figcaption {
+    text-align: center;
+    font-style: italic;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
 
 /* styles structure */
 
@@ -81,3 +94,11 @@ div.sidebar.sidebar-navigation.rollup.quarto-sidebar-toggle-contents, nav.sideba
     background-color: rgba(32, 55, 76, 0.3);
 }
 
+main img {
+    border: solid 0.1rem white;
+    margin-top: 1rem;
+}
+
+div.alert {
+margin-top: 2rem;
+}

@@ -6,19 +6,25 @@ title: "Calendrier"
 
 Où : Milieux Resource Room EV 11.705, Concordia University
 
-Quand : 17 février 2023, 9h à 12h
+Quand : 17 février 2023, 9h à 12h [-- *fait*]{.text-success}
 
 ### [McGill -- Ateliers du LADIREC 2023 \| Initiation à l'analyse de textes assistée par ordinateur](https://www.mcgill.ca/centre-montreal/fr/ateliers-ladirec-hiver-2023)
 
 Où : Zoom
 
-Quand : jeudi 14h à 16h
+Quand : jeudi 14h à 16h [-- *inscription faite*]{.text-info}
 
--   23 février 2023 -- Explorer les données textuelles avec R -- [*pas certaine d'être dispo*]{.text-warning}
+-   23 février 2023 -- Explorer les données textuelles avec R [-- *pas dispo*]{.text-danger}
 
 -   9 mars 2023 -- Visualiser les résultats d'analyses avec ggplot2 (R)
 
 -   23 mars 2023 -- Géolocaliser des données avec tydigeocoder et leaflet (R)
+
+### [Premier colloque étudiant du CRIHN -- Thème de la mémoire](https://www.crihn.org/nouvelles/2023/02/22/1er-colloque-etudiants-du-crihn/)
+
+Où : Carrefour des arts et des sciences, Université de Montréal (3150, rue Jean-Brillant)
+
+Quand : lundi 3 et mardi 4 avril 2023 [-- *dispo seulement lundi jusqu'à 15h*]{.text-warning}
 
 ### [Débugue tes humanités](https://debugue.ecrituresnumeriques.ca/)
 
@@ -26,9 +32,9 @@ Quand : jeudi 14h à 16h
 
 Où : Bibliothèque des lettres et sciences humaines (Pavillon Samuel-Bronfman - 3000, rue Jean-Brillant), Local 2074 (labo, 2^e^ étage) ou [en ligne](https://meet.jit.si/DebugHumanitesCRCEN-BLS)
 
-Quand : mardi 13h à 15h -- [*conflit d'horaire avec le travail*]{.text-warning}
+Quand : mardi 13h à 15h [-- *conflit d'horaire avec le travail, mais enregistrement dispo en différé*]{.text-warning}
 
--   28 mars 2023 -- introduction à Git
+-   28 mars 2023 -- introduction à Git [-- *inscrite*]{.text-info}
 
 -   9 et 30 mai 2023 -- générateurs de site web statique
 

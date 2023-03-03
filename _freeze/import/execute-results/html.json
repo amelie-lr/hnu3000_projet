@@ -1,0 +1,16 @@
+{
+  "hash": "371689ad1b5efa177df11323b50ba3c0",
+  "result": {
+    "markdown": "---\ntitle: \"Préparation des données\"\n---\n\n\n## Source des données\n\nMes tracés enregistrés lors de mes sorties à vélo dans les 10 dernières années. Les données sont contenues dans une application iOS, GPS Kit HD, sur ma tablette et peuvent être exportées sous différents formats (.gpx ou .kmz).\n\n\n<div class=\"alert alert-dismissible alert-dark\">\n  <h4 class=\"alert-heading\">À noter</h4>\n  <p class=\"mb-0\">Les données enregistrées ne sont pas parfaites. Selon les paramètres de l'application qui les a enregistrées et l'interférence qu'il peut y avoir sur la route, surtout en ville, les tracés peuvent parfois être grossiers et imprécis. Je ne m'attarderai pas non plus à éliminer les points superflus lors d'arrêts.</p>\n</div>\n\n\n\n## Importation\n\nXxxx\n\n\n::: {.cell}\n\n:::\n\n\n## Nettoyage des données\n\nXxxx\n\n\n::: {.cell}\n\n:::\n",
+    "supporting": [
+      "import_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

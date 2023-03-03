@@ -2,12 +2,11 @@
 title: "Références"
 ---
 
-## Technologies utilisés
+## Technologies utilisées
 
 - R Studio
 - GitHub
-- Quarto
-- Thème [Superhero](https://bootswatch.com/superhero/) personnalisé
+- Quarto et le thème [Superhero](https://bootswatch.com/superhero/) personnalisé
 - Langages R, Markdown, Yaml, HTML et CSS
 
 ## Documentation technique
@@ -22,4 +21,5 @@ Pour modifier le thème du site et le personnaliser
 [Quarto > Documents > HTML > HTML theming](https://quarto.org/docs/output-formats/html-themes.html)
 
 Pour personnaliser la structure du site  
-[Quarto > Websites](https://quarto.org/docs/websites/)
+[Quarto > Websites](https://quarto.org/docs/websites/)  
+[Quarto > Websites > Website navigation](https://quarto.org/docs/websites/website-navigation.html)
