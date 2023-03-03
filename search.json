@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "conferences.html",
+    "href": "conferences.html",
+    "title": "Calendrier",
+    "section": "",
+    "text": "Concordia – Vitrine HN\nOù : Milieux Resource Room EV 11.705, Concordia University\nQuand : 17 février 2023, 9h à 12h – fait\n\n\nMcGill – Ateliers du LADIREC 2023 | Initiation à l’analyse de textes assistée par ordinateur\nOù : Zoom\nQuand : jeudi 14h à 16h – inscription faite\n\n23 février 2023 – Explorer les données textuelles avec R – pas dispo\n9 mars 2023 – Visualiser les résultats d’analyses avec ggplot2 (R)\n23 mars 2023 – Géolocaliser des données avec tydigeocoder et leaflet (R)\n\n\n\nPremier colloque étudiant du CRIHN – Thème de la mémoire\nOù : Carrefour des arts et des sciences, Université de Montréal (3150, rue Jean-Brillant)\nQuand : lundi 3 et mardi 4 avril 2023 – dispo seulement lundi jusqu’à 15h\n\n\nDébugue tes humanités\nInscription\nOù : Bibliothèque des lettres et sciences humaines (Pavillon Samuel-Bronfman - 3000, rue Jean-Brillant), Local 2074 (labo, 2e étage) ou en ligne\nQuand : mardi 13h à 15h – conflit d’horaire avec le travail, mais enregistrement dispo en différé\n\n28 mars 2023 – introduction à Git – inscrite\n9 et 30 mai 2023 – générateurs de site web statique\n20 juin 2023 – introduction à Paged.js"
+  },
+  {
     "objectID": "planif.html",
     "href": "planif.html",
     "title": "Planification",
@@ -7,18 +14,32 @@
     "text": "xxx\nxxx\nxxx\nxxx\nxxx"
   },
   {
-    "objectID": "recherches.html",
-    "href": "recherches.html",
-    "title": "Recherches",
+    "objectID": "import.html",
+    "href": "import.html",
+    "title": "Préparation des données",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Mes tracés enregistrés lors de mes sorties à vélo dans les 10 dernières années. Les données sont contenues dans une application iOS, GPS Kit HD, sur ma tablette et peuvent être exportées sous différents formats (.gpx ou .kmz).\n\n\n\nLes données enregistrées ne sont pas parfaites. Selon les paramètres de l’application qui les a enregistrées et l’interférence qu’il peut y avoir sur la route, surtout en ville, les tracés peuvent parfois être grossiers et imprécis. Je ne m’attarderai pas non plus à éliminer les points superflus lors d’arrêts."
+  },
+  {
+    "objectID": "import.html#importation",
+    "href": "import.html#importation",
+    "title": "Préparation des données",
+    "section": "Importation",
+    "text": "Importation\nXxxx"
+  },
+  {
+    "objectID": "import.html#nettoyage-des-données",
+    "href": "import.html#nettoyage-des-données",
+    "title": "Préparation des données",
+    "section": "Nettoyage des données",
+    "text": "Nettoyage des données\nXxxx"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Projet HNU3000",
     "section": "",
-    "text": "Exploration des outils numériques relatifs aux données géographiques.\nXxxx…\n\n\nFaire parler des données de tracés gps.\n\n\n\nMes tracés gps enregistrés lors de mes sorties à vélo dans les 10 dernières années."
+    "text": "Depuis 2012, j’enregistre mes randonnées à vélo avec une application sur mon iPhone, application qui n’est malheureusement plus supportée depuis quelques années (mais qui est encore fonctionnelle). J’ai pris l’habitude d’y regrouper mes tracés par année, mais durant la pandémie, j’ai fait l’essai de rassembler une copie de l’ensemble de mes trajets dans une seule et même «collection». Le but était d’avoir une vue d’ensemble d’où je suis déjà passée, entre autre afin de m’inspirer pour trouver de nouvelles routes que je n’ai pas encore explorées.\n\n\n\nCapture GPS Kit HD\n\n\nOn aborde très peu le sujet des données géographiques dans le cadre des cours de la mineure en humanités numériques et j’aimerais donc explorer cet aspect davantage. C’est un sujet qui m’interpelle depuis longtemps, car j’ai d’ailleurs commencé, il y a plusieurs années, à répertorier les divers moyens de voyager avec son vélo en transport collectif (velo.amelielr.ca) et contribué aux projets collaboratifs OpenStreetMap et GravelMap.\nMais les divers outils que j’ai utilisés jusqu’à présent sont plus axés sur l’écriture de données géolocalisées. J’aimerais aussi maintenant me pencher sur l’information que je pourrais faire ressortir de mes tracés à vélo, d’abord en les triant selon des critères spécifiques, puis en les visualisant, avec des couleurs par exemple, selon l’altitude, la vitesse ou l’heure de la journée, un peu à la manière de ce que Strava permet de faire avec un abonnement payant.\n\n\n\nCapture heatmap Strava de mes activités\n\n\n\n\n\nExploration des outils numériques relatifs aux données géographiques.\nFaire parler, plus spécifiquement, les données de tracés gps."
   },
   {
     "objectID": "index.html#progression",
@@ -28,24 +49,17 @@
     "text": "Progression\n\nPréparation du site web afin de documenter le processus et constituer un rapport d’expérience\n\n\n\n\n\nDescription du projet\n\n\n\n\n\nRecherches\n\n\n\n\n\nChoix des outils\n\n\n\n\n\nExpérimentations et codage\n\n\n\n\n\nXxxxx"
   },
   {
-    "objectID": "conferences.html",
-    "href": "conferences.html",
-    "title": "Calendrier",
-    "section": "",
-    "text": "Concordia – Vitrine HN\nOù : Milieux Resource Room EV 11.705, Concordia University\nQuand : 17 février 2023, 9h à 12h\n\n\nMcGill – Ateliers du LADIREC 2023 | Initiation à l’analyse de textes assistée par ordinateur\nOù : Zoom\nQuand : jeudi 14h à 16h\n\n23 février 2023 – Explorer les données textuelles avec R – pas certaine d’être dispo\n9 mars 2023 – Visualiser les résultats d’analyses avec ggplot2 (R)\n23 mars 2023 – Géolocaliser des données avec tydigeocoder et leaflet (R)\n\n\n\nDébugue tes humanités\nInscription\nOù : Bibliothèque des lettres et sciences humaines (Pavillon Samuel-Bronfman - 3000, rue Jean-Brillant), Local 2074 (labo, 2e étage) ou en ligne\nQuand : mardi 13h à 15h – conflit d’horaire avec le travail\n\n28 mars 2023 – introduction à Git\n9 et 30 mai 2023 – générateurs de site web statique\n20 juin 2023 – introduction à Paged.js"
-  },
-  {
     "objectID": "ref.html",
     "href": "ref.html",
     "title": "Références",
     "section": "",
-    "text": "R Studio\nGitHub\nQuarto\nThème Superhero personnalisé\nLangages R, Markdown, Yaml, HTML et CSS"
+    "text": "R Studio\nGitHub\nQuarto et le thème Superhero personnalisé\nLangages R, Markdown, Yaml, HTML et CSS"
   },
   {
     "objectID": "ref.html#documentation-technique",
     "href": "ref.html#documentation-technique",
     "title": "Références",
     "section": "Documentation technique",
-    "text": "Documentation technique\n\nPréparation du site web\nPour la configuration entre mon projet dans R Studio et le répertoire sur GitHub\nHappy Git with R\nQuarto > Publishing > GitHub Pages\nPour modifier le thème du site et le personnaliser\nQuarto > Documents > HTML > HTML theming\nPour personnaliser la structure du site\nQuarto > Websites"
+    "text": "Documentation technique\n\nPréparation du site web\nPour la configuration entre mon projet dans R Studio et le répertoire sur GitHub\nHappy Git with R\nQuarto > Publishing > GitHub Pages\nPour modifier le thème du site et le personnaliser\nQuarto > Documents > HTML > HTML theming\nPour personnaliser la structure du site\nQuarto > Websites\nQuarto > Websites > Website navigation"
   }
 ]

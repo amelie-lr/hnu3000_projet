@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://amelie-lr.github.io/hnu3000_projet/conferences.html</loc>
+    <lastmod>2023-03-03T18:06:49.830Z</lastmod>
+  </url>
+  <url>
     <loc>https://amelie-lr.github.io/hnu3000_projet/planif.html</loc>
-    <lastmod>2023-02-16T23:15:10.334Z</lastmod>
+    <lastmod>2023-03-03T18:06:50.462Z</lastmod>
   </url>
   <url>
     <loc>https://amelie-lr.github.io/hnu3000_projet/recherches.html</loc>
-    <lastmod>2023-02-16T23:15:11.438Z</lastmod>
+    <lastmod>2023-03-03T18:06:50.794Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amelie-lr.github.io/hnu3000_projet/import.html</loc>
+    <lastmod>2023-03-03T18:06:51.118Z</lastmod>
   </url>
   <url>
     <loc>https://amelie-lr.github.io/hnu3000_projet/index.html</loc>
-    <lastmod>2023-02-16T23:15:11.926Z</lastmod>
-  </url>
-  <url>
-    <loc>https://amelie-lr.github.io/hnu3000_projet/conferences.html</loc>
-    <lastmod>2023-02-16T23:15:12.382Z</lastmod>
+    <lastmod>2023-03-03T18:06:51.442Z</lastmod>
   </url>
   <url>
     <loc>https://amelie-lr.github.io/hnu3000_projet/ref.html</loc>
-    <lastmod>2023-02-16T23:15:12.818Z</lastmod>
+    <lastmod>2023-03-03T18:06:51.786Z</lastmod>
   </url>
 </urlset>
