@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "conferences.html",
-    "href": "conferences.html",
-    "title": "Calendrier",
-    "section": "",
-    "text": "Concordia – Vitrine HN\nOù : Milieux Resource Room EV 11.705, Concordia University\nQuand : 17 février 2023, 9h à 12h – fait\n\n\nMcGill – Ateliers du LADIREC 2023 | Initiation à l’analyse de textes assistée par ordinateur\nOù : Zoom\nQuand : jeudi 14h à 16h – inscription faite\n\n23 février 2023 – Explorer les données textuelles avec R – pas dispo\n9 mars 2023 – Visualiser les résultats d’analyses avec ggplot2 (R)\n23 mars 2023 – Géolocaliser des données avec tydigeocoder et leaflet (R)\n\n\n\nPremier colloque étudiant du CRIHN – Thème de la mémoire\nOù : Carrefour des arts et des sciences, Université de Montréal (3150, rue Jean-Brillant)\nQuand : lundi 3 et mardi 4 avril 2023 – dispo seulement lundi jusqu’à 15h\n\n\nDébugue tes humanités\nInscription\nOù : Bibliothèque des lettres et sciences humaines (Pavillon Samuel-Bronfman - 3000, rue Jean-Brillant), Local 2074 (labo, 2e étage) ou en ligne\nQuand : mardi 13h à 15h – conflit d’horaire avec le travail, mais enregistrement dispo en différé\n\n28 mars 2023 – introduction à Git – inscrite\n9 et 30 mai 2023 – générateurs de site web statique\n20 juin 2023 – introduction à Paged.js"
-  },
-  {
-    "objectID": "planif.html",
-    "href": "planif.html",
-    "title": "Planification",
-    "section": "",
-    "text": "xxx\nxxx\nxxx\nxxx\nxxx"
-  },
-  {
-    "objectID": "import.html",
-    "href": "import.html",
-    "title": "Préparation des données",
-    "section": "",
-    "text": "Mes tracés enregistrés lors de mes sorties à vélo dans les 10 dernières années. Les données sont contenues dans une application iOS, GPS Kit HD, sur ma tablette et peuvent être exportées sous différents formats (.gpx ou .kmz).\n\n\n\nLes données enregistrées ne sont pas parfaites. Selon les paramètres de l’application qui les a enregistrées et l’interférence qu’il peut y avoir sur la route, surtout en ville, les tracés peuvent parfois être grossiers et imprécis. Je ne m’attarderai pas non plus à éliminer les points superflus lors d’arrêts."
-  },
-  {
-    "objectID": "import.html#importation",
-    "href": "import.html#importation",
-    "title": "Préparation des données",
-    "section": "Importation",
-    "text": "Importation\nXxxx"
-  },
-  {
-    "objectID": "import.html#nettoyage-des-données",
-    "href": "import.html#nettoyage-des-données",
-    "title": "Préparation des données",
-    "section": "Nettoyage des données",
-    "text": "Nettoyage des données\nXxxx"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Projet HNU3000",
@@ -61,5 +26,40 @@
     "title": "Références",
     "section": "Documentation technique",
     "text": "Documentation technique\n\nPréparation du site web\nPour la configuration entre mon projet dans R Studio et le répertoire sur GitHub\nHappy Git with R\nQuarto > Publishing > GitHub Pages\nPour modifier le thème du site et le personnaliser\nQuarto > Documents > HTML > HTML theming\nPour personnaliser la structure du site\nQuarto > Websites\nQuarto > Websites > Website navigation"
+  },
+  {
+    "objectID": "import.html",
+    "href": "import.html",
+    "title": "Préparation des données",
+    "section": "",
+    "text": "Mes tracés enregistrés lors de mes sorties à vélo dans les 10 dernières années. Les données sont contenues dans une application iOS, GPS Kit HD, sur ma tablette et peuvent être exportées sous différents formats (.gpx ou .kmz).\n\n\n\nLes données enregistrées ne sont pas parfaites. Selon les paramètres de l’application qui les a enregistrées et l’interférence qu’il peut y avoir sur la route, surtout en ville, les tracés peuvent parfois être grossiers et imprécis. Je ne m’attarderai pas non plus à éliminer les points superflus lors d’arrêts."
+  },
+  {
+    "objectID": "import.html#importation",
+    "href": "import.html#importation",
+    "title": "Préparation des données",
+    "section": "Importation",
+    "text": "Importation\nXxxx"
+  },
+  {
+    "objectID": "import.html#nettoyage-des-données",
+    "href": "import.html#nettoyage-des-données",
+    "title": "Préparation des données",
+    "section": "Nettoyage des données",
+    "text": "Nettoyage des données\nXxxx"
+  },
+  {
+    "objectID": "conferences.html",
+    "href": "conferences.html",
+    "title": "Calendrier",
+    "section": "",
+    "text": "Concordia – Vitrine HN\nOù : Milieux Resource Room EV 11.705, Concordia University\nQuand : 17 février 2023, 9h à 12h – fait\n\n\nMcGill – Ateliers du LADIREC 2023 | Initiation à l’analyse de textes assistée par ordinateur\nOù : Zoom\nQuand : jeudi 14h à 16h – inscription faite\n\n23 février 2023 – Explorer les données textuelles avec R – pas dispo\n9 mars 2023 – Visualiser les résultats d’analyses avec ggplot2 (R)\n23 mars 2023 – Géolocaliser des données avec tydigeocoder et leaflet (R)\n\n\n\nPremier colloque étudiant du CRIHN – Thème de la mémoire\nOù : Carrefour des arts et des sciences, Université de Montréal (3150, rue Jean-Brillant)\nQuand : lundi 3 et mardi 4 avril 2023 – dispo seulement lundi jusqu’à 15h\n\n\nDébugue tes humanités\nInscription\nOù : Bibliothèque des lettres et sciences humaines (Pavillon Samuel-Bronfman - 3000, rue Jean-Brillant), Local 2074 (labo, 2e étage) ou en ligne\nQuand : mardi 13h à 15h – conflit d’horaire avec le travail, mais enregistrement dispo en différé\n\n28 mars 2023 – introduction à Git – inscrite\n9 et 30 mai 2023 – générateurs de site web statique\n20 juin 2023 – introduction à Paged.js"
+  },
+  {
+    "objectID": "planif.html",
+    "href": "planif.html",
+    "title": "Planification",
+    "section": "",
+    "text": "xxx\nxxx\nxxx\nxxx\nxxx"
   }
 ]
